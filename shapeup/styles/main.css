@@ -25,15 +25,18 @@ body header h2{
     font-style: italic;
 }
 
+body header h3{
+    font-size: 150%;
+}
+
 body main{
     padding-left: 2.5em;
     padding-right: 2.5em;
     padding-top: 1em;
     padding-bottom: 1em;
 }
-
-body header h3{
-    font-size: 150%;
+body main q{
+    text-indent: 50px;
 }
 
 a:link{
